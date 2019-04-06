@@ -13,9 +13,24 @@ code {
     monospace;
 }
 
-p.first{
-  color:yellow;
+p{
+  font-size: 80% ;
 }
 p.second{
   color:red;
+}
+
+.box {
+  background-color: grey;
+  margin: 5px;
+}
+.person {
+  background-color: blue;
+  margin: 5px;
+}
+
+.checkpoint {
+  display: inline-block;
+  margin-bottom: 10px;
+
 }
